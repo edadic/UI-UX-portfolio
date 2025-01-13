@@ -19,4 +19,4 @@ The design includes:
 - **Interactive Elements**: Fully interactive prototype to simulate user flows.  
 
 ## Explore the Project  
-Access the full design prototype on **Figma**: [RoamAround Figma Prototype]((#https://www.figma.com/design/1agLMQynVXcKyRAIoIl3wY/RoamAround?node-id=51-10&t=WlSlDNd9E7f4u58Z-1))
+Access the full design prototype on Figma: [RoamAround Prototype](https://www.figma.com/design/1agLMQynVXcKyRAIoIl3wY/RoamAround?node-id=51-10&t=WlSlDNd9E7f4u58Z-1) 
